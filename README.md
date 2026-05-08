@@ -61,7 +61,19 @@ output/    -> versiones PDF del boletín
 - Mercados financieros regionales
 
 ---
+## Visualizaciones
 
+### Inflación
+
+![Inflación](graficos/inflacion.png)
+
+### Tasa de Política Monetaria
+
+![TPM](graficos/TPM.png)
+
+### Índice de Cambio Fronterizo
+
+![ICF](graficos/ICF_Abril26.png)
 ## Estado del proyecto
 
 Proyecto actualmente en desarrollo y expansión.
