@@ -69,7 +69,7 @@ output/    -> versiones PDF del boletín
 
 ### Tasa de Política Monetaria
 
-![TPM](graficos/TPM.png)
+![TPM](graficos/tpm.png)
 
 ### Índice de Cambio Fronterizo
 
