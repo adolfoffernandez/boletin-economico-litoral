@@ -1,3 +1,4 @@
+![Boletín Económico](graficos/Logo.png)
 # boletin-economico-litoral
 Boletín de análisis económico regional enfocado en inflación, política monetaria y dinámica fronteriza del litoral uruguayo.
 # Boletín Económico del Litoral
@@ -32,6 +33,10 @@ La metodología utilizada es:
 
 ICF = USD/ARS ÷ USD/UYU
 
+---
+## Última edición
+
+[Descargar boletín PDF](output/Boletín Económico_Abril_26.pdf)
 ---
 
 ## Contenido del repositorio
@@ -75,7 +80,7 @@ output/    -> versiones PDF del boletín
 
 ![ICF](graficos/ICF_Abril26.png)
 ## Estado del proyecto
-
+---
 Proyecto actualmente en desarrollo y expansión.
 
 Las futuras versiones incluirán:
