@@ -36,7 +36,7 @@ ICF = USD/ARS ÷ USD/UYU
 ---
 ## Última edición
 
-[Descargar boletín PDF](output/Boletín Económico_Abril_26.pdf)
+[Descargar boletín PDF](output/Boletín_Económico_Abril_26.pdf)
 ---
 
 ## Contenido del repositorio
