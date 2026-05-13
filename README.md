@@ -36,7 +36,7 @@ ICF = USD/ARS ÷ USD/UYU
 ---
 ## Última edición
 
-[Descargar boletín PDF](output/Boletín Económico_Abril_26.pdf)
+[Descargar boletín PDF](output/Boletín_Económico_Abril_26.pdf)
 ---
 
 ## Contenido del repositorio
@@ -79,8 +79,8 @@ output/    -> versiones PDF del boletín
 ### Índice de Cambio Fronterizo
 
 ![ICF](graficos/ICF_Abril26.png)
-## Estado del proyecto
 ---
+## Estado del proyecto
 Proyecto actualmente en desarrollo y expansión.
 
 Las futuras versiones incluirán:
